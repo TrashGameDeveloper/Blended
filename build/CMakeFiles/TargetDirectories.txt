@@ -1,0 +1,3 @@
+/home/tricepratops/Documents/Blended/build/CMakeFiles/Blended.dir
+/home/tricepratops/Documents/Blended/build/CMakeFiles/edit_cache.dir
+/home/tricepratops/Documents/Blended/build/CMakeFiles/rebuild_cache.dir
